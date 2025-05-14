@@ -1,4 +1,4 @@
-#Projekts automatizācija
+# Projekts automatizācija
 <br/>
 
 ## Python tēmu meklētājs ar Cheat Sheet funkcionalitāti
